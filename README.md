@@ -40,6 +40,6 @@ Thank you for exploring [sampurn.me](https://www.sampurn.me) in Flutter!
 ![Portfolio Screenshot](Screenshot.png)
 
 ---
-The original flutter re
+
 
 
