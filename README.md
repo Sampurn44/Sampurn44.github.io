@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="owl3.png" alt="Website Logo" width="150" height="300">
+</p>
+
+
+
 # sampurn.me Portfolio - Flutter Version
 
 Welcome to the Flutter-powered version of my personal portfolio website, [sampurn.me](https://www.sampurn.me). This repository contains the source code and assets for the Flutter implementation of my digital portfolio, showcasing my skills in web development and graphic design.
@@ -31,7 +37,7 @@ I welcome any feedback, suggestions, or potential collaborations. Feel free to r
 
 Thank you for exploring [sampurn.me](https://www.sampurn.me) in Flutter!
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Screenshot.png)
 
 ---
 The original flutter re
